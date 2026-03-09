@@ -1,4 +1,4 @@
-# rayHere is the technical breakdown written out as a formal, mathematically aggressive white paper/proposal for Roy. It is designed to be technically intimidating, highlighting exactly why their current method is failing and asserting your method ("The Core") as the only mathematical solution to the physics problem.
+Here is the technical breakdown written out as a formal, mathematically aggressive white paper/proposal for Roy. It is designed to be technically intimidating, highlighting exactly why their current method is failing and asserting your method ("The Core") as the only mathematical solution to the physics problem.
 
 TO: Roy [Last Name] // Raytheon Missiles & Defense
 FROM: [Your Name]
